@@ -1,0 +1,10 @@
+epson-inkjet-printer-escpr
+hollywood
+ledger-live-bin
+lmstudio-beta
+makemkv
+octopi
+popsicle
+spotify
+yay
+yay-debug
