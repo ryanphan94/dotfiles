@@ -1,3 +1,4 @@
+# GUI Apps via Homebrew
 cask "firefox"
 cask "gimp"
 cask "steam"
@@ -11,9 +12,24 @@ cask "blender"
 cask "balenaetcher"
 cask "imazing"
 cask "makemkv"
-cask "yubikey-manager"
+cask "yubico-yubikey-manager"
+cask "discord"
+cask "proton-mail"
+cask "windows-app"
 
+# CLI Tools
 brew "git"
 brew "htop"
 brew "zsh"
 brew "mas"
+
+# Mac App Store (mas)
+mas "Apple Configurator", id: 1037126344
+mas "Blackmagic Disk Speed Test", id: 425264550
+mas "Compressor", id: 424390742
+mas "Final Cut Pro", id: 424389933
+mas "Motion", id: 434290957
+mas "Photomator", id: 1444636541
+mas "Pixelmator Pro", id: 1289583905
+mas "Telegram", id: 747648890
+mas "Windows App", id: 1295203466
